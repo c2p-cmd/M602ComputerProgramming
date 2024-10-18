@@ -2,11 +2,12 @@
     "tasks": [
         {
             "type": "cppbuild",
-            "label": "C/C++: clang++ build active file",
+            "label": "Mac Optimized C/C++: clang++ build active file",
             "command": "/usr/bin/clang++",
             "args": [
                 "-fcolor-diagnostics",
                 "-fansi-escape-codes",
+                "-march=native",
                 "-g",
                 "${file}",
                 "-o",
