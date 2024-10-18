@@ -1,17 +1,11 @@
 # M602 Computer Programming Coding
 
-### Task of counting to 1,00,00,000 in both c++ and python
+### Task of counting to 1,000,000,000 in both c++ and python [video](https://www.youtube.com/watch?v=VioxsWYzoJk)
 
-### Update:
-
-#### C++ with flag of `-march=native` took 7ms [flag in `tasks.json`](.vscode/tasks.json)
-
-![Picture](./counting_up/ResultMacOptimized.png)
-
-#### C++ took 22ms [code](./c++/count_up/count_up.cpp)
+#### C++ (with `-march=native`) took 764ms [code](./c++/count_up/count_up.cpp)
 
 ![Picture](./counting_up/ResultScreenshotCpp.png)
 
-#### Python took 17ms [code](./python/count_up.py)
+#### Python took 17s [code](./python/count_up.py)
 
 ![Picture](./counting_up/ResultPy.png)

@@ -14,7 +14,7 @@ int main()
     using std::chrono::nanoseconds;
 
     auto t1 = high_resolution_clock::now();
-    const int MAX_COUNT = 10000000;
+    const int MAX_COUNT = 1000000000;
     int value = 0;
     for (int i = 0; i < MAX_COUNT; i++)
     {

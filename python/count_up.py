@@ -3,7 +3,7 @@ from datetime import timedelta
 
 def main() -> None:
     start = timer()
-    MAX_COUNT = 1_00_00_000
+    MAX_COUNT = 1_00_00_00_000
 
     value: int = 0
     for _ in range(MAX_COUNT):
