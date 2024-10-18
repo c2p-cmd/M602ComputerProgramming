@@ -6,6 +6,8 @@
 
 #### C++ with flag of `-march=native` took 7ms [flag in `tasks.json`](.vscode/tasks.json)
 
+![Picture](./counting_up/ResultMacOptimized.png)
+
 #### C++ took 22ms [code](./c++/count_up/count_up.cpp)
 
 ![Picture](./counting_up/ResultScreenshotCpp.png)
