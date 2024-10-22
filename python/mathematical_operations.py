@@ -21,7 +21,7 @@ print(f"100/17 = {(100/17): 2f} & 100/0 = 100/0, \"ZeroDivisionError: division b
 # 100 % 17 
 print(f"100/17 = {100%17}")
 
-# Set 2 to the powrr of 3
+# Set 2 to the power of 3
 print(f"2^3 = {2**3}")
 
 # Set variable x equal to 5, y tp 3, multiply
