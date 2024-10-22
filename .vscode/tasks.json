@@ -2,7 +2,7 @@
     "tasks": [
         {
             "type": "cppbuild",
-            "label": "Mac Optimized C/C++: clang++ build active file",
+            "label": "C/C++: clang++ build active file",
             "command": "/usr/bin/clang++",
             "args": [
                 "-fcolor-diagnostics",
