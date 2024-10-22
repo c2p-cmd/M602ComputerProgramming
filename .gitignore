@@ -1,4 +1,5 @@
 venv/
+.venv/
 *.out
 *.dSYM
 .DS_Store
