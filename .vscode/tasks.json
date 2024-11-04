@@ -14,7 +14,7 @@
                 "${fileDirname}/${fileBasenameNoExtension}.out"
             ],
             "options": {
-                "cwd": "${fileDirname}",
+                "cwd": "${fileDirname}"
             },
             "problemMatcher": [
                 "$gcc"
